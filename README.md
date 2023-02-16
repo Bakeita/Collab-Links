@@ -9,3 +9,14 @@ Machine &amp; Pytorch
 # Building Image classification on Cifar10 dataset using vanilla neural network
 
 ## https://colab.research.google.com/drive/1ilCUQjBYFpB7OBhmU1392NExSlZOvFGg?usp=sharing
+
+# RNN Name Classifiers 
+### coming soon
+
+# Transfer Learning
+
+### coming soon
+
+# Languages Models Using Transformers
+
+### coming soon
